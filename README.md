@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Makhdiyun 👋
 
-<!--
-**makhdiyun-dev/makhdiyun-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Freshman studying Computer Engineering at California State University, Sacramento
 
-Here are some ideas to get you started:
+## Currently Learning
+- Python
+- Git & GitHub
+- Computer Engineering Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Build Python projects
+- Learn C and C++
+- Explore Arduino and Raspberry Pi
+- Earn a Computer Engineering internship
+
+Thanks for visiting my profile!
